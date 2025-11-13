@@ -1,4 +1,4 @@
-print(summation())
+adder(1, 2)
 
 def adder(num1: int, num2: int) -> int:
     return num1 + num2
